@@ -7,7 +7,7 @@ This project focuses on **time series forecasting** using two machine learning a
 - **Facebook(Meta) Prophet** – a model designed for capturing trend, seasonality, and holiday effects in time series.  
 - **XGBoost Regressor** – a gradient boosting model adapted for regression forecasting using lag features and engineered predictors.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyeyPatel30&include_repo=Internship-Project&layout=compact&theme=dark&card_width=500&hide_border=false&border_color=30363d&border_radius=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyeyPatel30&include_repo=Internship-Project&exclude_repo=DhyeyPatel30,STREET-LIGHT-FAULT-DETECTION-SYSTEM,Tableau-Interactive-Dashboard-EDA,Univariate-Forecasting-using-Prophet,Sales-forecasting-using-SARIMAX,Heart-Attack-Prediction,To-do-List-angular,C-lang.-Projects,My.viewport,Amazon_prime_db&layout=compact&theme=dark&card_width=300&hide_border=false&border_color=30363d&border_radius=12)
 
 ---
 
